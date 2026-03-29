@@ -1,23 +1,23 @@
-<!-- README-AI-SIGNATURE:20260328002053 -->
+<!-- README-AI-SIGNATURE:20260329025321 -->
 # NextJSTemplate
 
-NextJSTemplate is a robust starter template for building modern web applications using Next.js and TypeScript. This repository is designed to streamline your development process with a well-structured setup, including essential tools and configurations for a seamless experience.
+NextJSTemplate is a robust starter template for building modern web applications using Next.js and TypeScript. This repository is designed to streamline your development process with a well-structured setup, including essential tools and configurations.
 
-![Next.js](https://img.shields.io/badge/Next.js-16.0.7-brightgreen) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.0.0-pink)
+![Next.js](https://img.shields.io/badge/Next.js-16.0.7-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5-007ACC?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ## ✨ Key Features
 
 ### ⚡ Fast Development
-- Built with Next.js for optimized performance and fast page loads.
+- Built with Next.js for server-side rendering and static site generation.
+- TypeScript support for enhanced code quality and developer experience.
 
 ### 🎨 Tailwind CSS Integration
-- Utilizes Tailwind CSS for rapid UI development with utility-first styling.
+- Pre-configured with Tailwind CSS for rapid UI development.
+- Includes utility-first CSS classes for responsive design.
 
-### 🛠️ TypeScript Support
-- Fully supports TypeScript for type safety and improved developer experience.
-
-### 🔍 Linting and Formatting
-- Integrated ESLint and Prettier for maintaining code quality and consistency.
+### 🛠️ Linting and Formatting
+- Integrated ESLint and Prettier for code quality and consistency.
+- Configured with lint-staged for pre-commit checks.
 
 ## 🏗️ Project Structure
 
@@ -68,10 +68,10 @@ npm run dev
 
 This project includes several scripts to facilitate development:
 
-- `npm run dev`: Starts the development server.
-- `npm run build`: Builds the application for production.
-- `npm run start`: Starts the production server.
-- `npm run lint`: Runs ESLint to check for code quality issues.
+- `npm run dev`: Start the development server.
+- `npm run build`: Build the application for production.
+- `npm run start`: Start the production server.
+- `npm run lint`: Run ESLint to check for code quality issues.
 
 ## 🤝 Contributing
 
@@ -79,4 +79,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
